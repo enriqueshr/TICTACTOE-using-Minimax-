@@ -1,1 +1,1 @@
-Check f.c for TITACTOE against AI(computer)
+Check f.c for TICTACTOE against AI(computer)
